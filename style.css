@@ -13,7 +13,11 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
+    background-image: url(carlos-sainz-ferrari-sf-23-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+    
 
 
 .conteudo-principal {
